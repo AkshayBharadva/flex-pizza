@@ -1,2 +1,2 @@
 # flex-pizza
-Use Of Flexbox With the example Pizza Card
+Use Of Flexbox With the example of Pizza Card
